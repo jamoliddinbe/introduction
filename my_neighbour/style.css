@@ -1,0 +1,58 @@
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: rgb(255, 255, 0);
+}
+header{
+    text-align: center;
+    margin: 50px;
+}
+main{
+    text-align: center;
+    margin: 50px;
+}
+.hearor{
+    display: flex; 
+}
+
+header h1:hover{
+color: rgb(180, 239, 18);
+display: block;
+}
+.hearor p{
+    width: 45%;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.intro{
+    margin-top: 100px;
+    display: flex;
+}
+.intro p{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    margin-right: 50px;
+}
+.location{
+    margin-top: 100px;
+    display: flex;
+    margin-bottom: 100px;
+}
+.location p{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
